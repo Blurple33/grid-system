@@ -1,0 +1,68 @@
+.col {
+    
+    background-color: #eeeeee; 
+    border: 1px solid gray;
+    height: 2.5em; 
+
+    /* emmet notes
+    bgc = background-color
+    bd = border
+    h = height
+    */
+}
+
+.container-fluid {
+    background-color: yellow;
+}
+
+body {
+    background-color: yellow;
+}
+.a {
+    background-color: yellow;
+
+}
+
+.container-wrapper{
+    text-align: center;
+    
+}
+
+.head {
+    background-color: blue;
+    border: 1px solid gray;
+    color: white;
+    height: 100px;
+    
+}
+
+.navi {
+    background-color: green;
+    border: 1px solid gray;
+    height: 50px;
+}
+
+.content{
+    background-color: red;
+    border: 1px solid gray;
+    height: 150px; 
+}
+
+.aside {
+    background-color: lightblue;
+    border: 1px solid gray;
+    height: 150px;
+}
+
+.promo {
+    background-color: orange;
+    border: 1px solid gray;
+    height: 125px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    border: 1px solid gray;
+    height: 50px;
+}
